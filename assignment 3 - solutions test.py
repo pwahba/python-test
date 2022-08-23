@@ -15,7 +15,7 @@
 #         monthly_salary = annual_salary/12
 #         portion_saved_monthly = monthly_salary * portion_saved
 
-# print("Number of months: ", months)
+print("Number of months: ", months)
 
 #-------------------------------------------------------------------------------------
 
